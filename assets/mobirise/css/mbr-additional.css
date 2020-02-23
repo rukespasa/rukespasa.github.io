@@ -710,6 +710,16 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rRkI9WCUAx {
+  background-image: url("../../../assets/images/deset-godina-kampanje-produzi-zivot-pokrenulo-srbiju-na-humanost-i-solidarnos-1-620x348.jpeg");
+}
+.cid-rRkI9WCUAx P {
+  color: #767676;
+}
+.cid-rRkI9WCUAx .mbr-text,
+.cid-rRkI9WCUAx .mbr-section-btn {
+  color: #cccccc;
+}
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/wp5224421-2000x1251.jpg");
 }
@@ -767,16 +777,6 @@ section.lazy-placeholder:after {
 }
 .cid-rRlAwqp6xT .social-list a:focus {
   text-decoration: none;
-}
-.cid-rRkI9WCUAx {
-  background-image: url("../../../assets/images/deset-godina-kampanje-produzi-zivot-pokrenulo-srbiju-na-humanost-i-solidarnos-1-620x348.jpeg");
-}
-.cid-rRkI9WCUAx P {
-  color: #767676;
-}
-.cid-rRkI9WCUAx .mbr-text,
-.cid-rRkI9WCUAx .mbr-section-btn {
-  color: #cccccc;
 }
 .cid-rRkKfSTMXa {
   padding-top: 90px;
